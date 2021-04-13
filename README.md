@@ -4,3 +4,5 @@
 [HW2: Establision of EC2](https://github.com/andy030b/Fintech/tree/main/HW2)  
 
 [HW3: IAM & S3  ](https://github.com/andy030b/Fintech/tree/main/HW3)  
+
+[HW4: Lambda & API Gateway  ](https://github.com/andy030b/Fintech/tree/main/HW4)  
