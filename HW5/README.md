@@ -1,1 +1,1 @@
-[HW5: DynamoDB  ](https://github.com/andy030b/Fintech/tree/main/HW5)  
+[HW5: DynamoDB  ](https://youtu.be/X3MkW5J0_nk)  
