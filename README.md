@@ -6,3 +6,6 @@
 [HW3: IAM & S3  ](https://github.com/andy030b/Fintech/tree/main/HW3)  
 
 [HW4: Lambda & API Gateway  ](https://github.com/andy030b/Fintech/tree/main/HW4)  
+
+[HW5: DynamoDB  ](https://github.com/andy030b/Fintech/tree/main/HW5)  
+
